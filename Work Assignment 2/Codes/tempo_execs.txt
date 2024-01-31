@@ -1,0 +1,1 @@
+codigo base (sem qualquer omp optimization) para referencia: 3.656s
