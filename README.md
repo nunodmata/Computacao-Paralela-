@@ -6,7 +6,11 @@ The program to analyse and optimise is part of a simple molecular dynamics’ si
 of argon gas (original code version in FoleyLab/MolecularDynamics: Simple Molecular Dynamics).
 The code follows a generic approach to simulate particle movements over time steps, using the Newton law:
 
-<img src="https://github.com/nunodmata/Parallel_Computing/assets/57006792/da8310d4-56fe-4355-8e7b-8cd0662b0e6b" width="600" height="300">
+
+<p align="center">
+ <img src="https://github.com/nunodmata/Parallel_Computing/assets/57006792/da8310d4-56fe-4355-8e7b-8cd0662b0e6b" width="600" height="300">
+</p>
+
 
  The code uses Lennard Jones potential to describe the interactions among two particles (force/potential energy).
 The Verlet integration method is used to calculate the particles trajectories over time. Boundary conditions (i.e., 
